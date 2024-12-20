@@ -26,5 +26,9 @@ This project enhanced my skills in data processing, database management, and das
 ## **Inventory Analysis Dashboard:**
 
 
-![Inventory_dashboard](https://github.com/user-attachments/assets/bddeb35f-5e1c-406a-8792-a348344cd20b)
 
+• **Homepage:**  ![Inventory_homepage](https://github.com/user-attachments/assets/28164f60-a512-4d77-bdf2-0f85fea98914)
+
+
+
+• **Dashboard:** ![Inventory_dashboard](https://github.com/user-attachments/assets/1104be63-c6a3-4ad1-942f-e9662acc09c2)
