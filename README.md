@@ -1,4 +1,4 @@
-## Inventory_Analysis_Suite
+## Inventory_Analysis
 
 In this project, I conducted an Inventory Analysis for a beverage manufacturing company, focusing on delivering actionable insights for better inventory management.
 
